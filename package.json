@@ -1,0 +1,10 @@
+{
+  "name"         : "ffxivdb-scraping",
+  "version"      : "0.0.1",
+  "description"  : "Scrape ffxivdb",
+  "main"         : "",
+  "author"       : "",
+  "dependencies" : {
+    "request"    : "^2.65.0",
+  }
+}
